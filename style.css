@@ -1,0 +1,46 @@
+body{
+  font-family:"Open Sans",sans-serif;
+  color:darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color: ivory;
+}
+h1{
+  font-family:Oswald,sans-serif;
+}
+h2{
+  font-family:Oswald,sans-serif;
+}
+img{
+  float:left;
+  margin-right:10px;
+}
+
+.left{
+  float:left;
+  width:300px;
+  padding:1em;
+}
+.right{
+  float:right;
+  width:300px;
+  padding:1em;
+
+}
+.center{
+  margin-right: 300px;
+  margin-left: 300px;
+  padding:1em;
+}
+
+#table ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+#table li{
+  display: inline;
+}
+#table a{
+  margin-left:100px;
+  margin-rignt:100px;
+}
